@@ -1,0 +1,10 @@
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\bin\Debug\Warren.exe.config
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\bin\Debug\Warren.exe
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\bin\Debug\Warren.pdb
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\bin\Debug\Warren.xml
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\obj\Debug\Warren_Project.frmMain.resources
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\obj\Debug\Warren_Project.Resources.resources
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\obj\Debug\Warren Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\obj\Debug\Warren.exe
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\obj\Debug\Warren.xml
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Warren Project\Warren Project\obj\Debug\Warren.pdb

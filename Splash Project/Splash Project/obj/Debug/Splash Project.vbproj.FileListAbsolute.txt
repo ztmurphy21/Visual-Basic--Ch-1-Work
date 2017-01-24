@@ -1,0 +1,11 @@
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\obj\Debug\Splash Project.vbprojResolveAssemblyReference.cache
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\obj\Debug\Splash_Project.Resources.resources
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\obj\Debug\Splash Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\obj\Debug\Splash_Project.frmSplash.resources
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\bin\Debug\Zoo Splash.exe.config
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\bin\Debug\Zoo Splash.exe
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\bin\Debug\Zoo Splash.pdb
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\bin\Debug\Zoo Splash.xml
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\obj\Debug\Zoo Splash.exe
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\obj\Debug\Zoo Splash.xml
+E:\College\Visual Basic\Visual-Basic--Ch-1-Work\Splash Project\Splash Project\obj\Debug\Zoo Splash.pdb
